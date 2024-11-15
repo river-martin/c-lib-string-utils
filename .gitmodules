@@ -1,0 +1,3 @@
+[submodule "deps/c-lib-stack"]
+	path = deps/c-lib-stack
+	url = git@github.com:river-martin/c-lib-stack.git
